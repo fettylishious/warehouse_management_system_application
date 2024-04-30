@@ -1,0 +1,4 @@
+name: user_repository
+description: The Repo that handlers users
+publish_to: 'none'
+version: 0.0.1+1
